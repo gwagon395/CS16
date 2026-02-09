@@ -1,6 +1,5 @@
 #include <string>
 
-
 // Constants for the search parameters, given as an array
 const int NSEARCHES = 10;   // size of the SEARCHES[] array
 const int SEARCHES[NSEARCHES] = {-5, -4, -3, -2, -1, 0, 1, 2, 3, 4};
